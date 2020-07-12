@@ -1,5 +1,5 @@
 "use strict";
-alert("Hello!")
+alert("Hello!");
 let grd=0;
 let Tf=0;
 grd = parseInt(prompt("Введите занчение температуры в градусах Цельсия: "));
